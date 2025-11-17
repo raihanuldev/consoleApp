@@ -1,5 +1,8 @@
 ﻿Console.WriteLine("Hello world Iam here to Explore C-Sharp! ");
 
+// Boolean
+bool isCSharpFun = true;
+
 
 // String
 string greeting = "Nice to meet you";
