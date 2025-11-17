@@ -1,6 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿Console.WriteLine("Hello world Iam here to Explore C-Sharp! ");
 
-// Data-Type
-int mynum = 5;
-
+// Data Type
+int myNum = 1000;
+Console.WriteLine(myNum);
