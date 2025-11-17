@@ -1,12 +1,19 @@
 ﻿Console.WriteLine("Hello world Iam here to Explore C-Sharp! ");
 
 
+// String
+string greeting = "Nice to meet you";
+Console.WriteLine("Length of string: "+greeting.Length);
+Console.WriteLine("UPPER ALL=> "+ greeting.ToUpper());
+Console.WriteLine("LOWER ALL=> "+ greeting.ToLower());
 
-// Math
-int maxValue = Math.Max(6,109);
-int minvalue = Math.Min(42,21);
-double sqrt = Math.Sqrt(64);
-Math.Abs(-12.2);
+
+
+// // Math
+// int maxValue = Math.Max(6,109);
+// int minvalue = Math.Min(42,21);
+// double sqrt = Math.Sqrt(64);
+// Math.Abs(-12.2);
 
 
 // // Operator
