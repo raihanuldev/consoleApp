@@ -1,7 +1,20 @@
-﻿Console.WriteLine("Hello world Iam here to Explore C-Sharp! ");
+﻿
 
-string[] cars={"BMS","XYS","SSSS"};
-cars.Append("BMW");
+static void mymethod()
+{
+    Console.WriteLine("This is from Method");
+}
+static int recivedPatametar(int num1, int num2)
+{
+    return num1+num2;
+}
+
+Console.WriteLine("Hello world Iam here to Explore C-Sharp! ");
+mymethod();
+Console.WriteLine(recivedPatametar(12,22));
+
+// string[] cars={"BMS","XYS","SSSS"};
+// cars.Append("BMW");
 
 
 // for(int i=0; i < 10; i++)
