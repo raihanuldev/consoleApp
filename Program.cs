@@ -1,5 +1,7 @@
 ﻿Console.WriteLine("Hello world Iam here to Explore C-Sharp! ");
 
-// Data Type
-int myNum = 1000;
-Console.WriteLine(myNum);
+int myNum = 100;
+double myDouble = myNum; //Type Casting
+
+string myStr = Convert.ToString(myNum);
+Console.WriteLine("This is type Casting Converted string: ",myStr);
