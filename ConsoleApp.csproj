@@ -6,8 +6,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
 
-    <!-- এখানে startup object সেট করো -->
-    <StartupObject>ConsoleApp.Program</StartupObject>
+    <StartupObject>ConsoleApp.InhertianceExample</StartupObject>
   </PropertyGroup>
 
 </Project>
