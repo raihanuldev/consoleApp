@@ -7,7 +7,7 @@
     <Nullable>enable</Nullable>
 
     <!-- এখানে startup object সেট করো -->
-    <StartupObject>ConsoleApp.</StartupObject>
+    <StartupObject>ConsoleApp.Program</StartupObject>
   </PropertyGroup>
 
 </Project>

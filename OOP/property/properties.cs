@@ -1,18 +1,21 @@
-class Ex
+namespace ConsoleApp;
+
+public class Ex
 {
     private string name;
     public string Name
     {
-        get{ return name;}
-        set{name=value;}
+        get { return name; }
+        set { name = value; }
     }
 }
-class Program
+
+public class Program
 {
-    static void Main(string[] args)
+    public static void Main(string[] args)
     {
-        Ex frist = new Ex();
-        frist.Name = "Lamia";
-        Console.WriteLine(frist.Name);
+        Ex first = new Ex();
+        first.Name = "Lamia";
+        Console.WriteLine(first.Name);
     }
 }
