@@ -6,7 +6,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
 
-    <StartupObject>ConsoleApp.InhertianceExample</StartupObject>
+    <StartupObject>ConsoleApp.Practice</StartupObject>
   </PropertyGroup>
 
 </Project>
