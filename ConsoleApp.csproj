@@ -6,7 +6,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
 
-    <StartupObject>ConsoleApp.Abstraction</StartupObject>
+    <StartupObject>ConsoleApp.InterfaceMain</StartupObject>
   </PropertyGroup>
 
 </Project>
