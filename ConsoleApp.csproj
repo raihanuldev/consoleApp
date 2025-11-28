@@ -6,7 +6,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
 
-    <StartupObject>ConsoleApp.Polymor</StartupObject>
+    <StartupObject>ConsoleApp.Abstraction</StartupObject>
   </PropertyGroup>
 
 </Project>
